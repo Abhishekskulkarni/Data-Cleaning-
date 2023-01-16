@@ -1,13 +1,15 @@
 # Data-Cleaning-
 In this Repository i have done some methods of data cleaning 
 I also provide the data on which i have performed the data cleaning 
-Data Cleaning Steps:
-    Import Dataset
-    Merge datasets into one dataset
-    identify errors
-    Standardize process
-    scrub for duplicates
-    validate accuracy 
+
+
+***Data Cleaning Steps:
+    1)Import Dataset
+    2)Merge datasets into one dataset
+    3)identify errors
+    4)Standardize process
+    5)scrub for duplicates
+    6)validate accuracy 
     
 * What is missing Value/Data ? 
 In the variable or any observation, values are not stored called as 
